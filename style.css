@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:gilroy;
+}
+html,body{
+    height:100%;
+    width:100%;
+    background-color: black;
+}
+#string{
+    height:400px;
+    width:100%;
+    
+}
+#heading h1{
+    color:white;
+    font-size:65px;
+    text-transform:uppercase;
+    margin-top:40px;
+    position:absolute;
+}
